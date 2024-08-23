@@ -17,4 +17,3 @@ jobs:
       uses: errata-ai/vale-action@reviewdog
       with:
         files: docs/
-        reporter: github-check
