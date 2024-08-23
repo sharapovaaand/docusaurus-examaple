@@ -16,4 +16,4 @@ jobs:
     - name: vale
       uses: errata-ai/vale-action@reviewdog
       with:
-        files: ./docs/*.md
+        files: ../../docs/
