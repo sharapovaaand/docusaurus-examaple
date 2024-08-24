@@ -5,6 +5,8 @@ on:
     branches:
       - gh-pages
 
+workflow_dispatch: true
+
 jobs:
   build:
     name: Build Docusaurus
