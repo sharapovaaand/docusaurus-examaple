@@ -132,4 +132,6 @@ const config = {
     }),
 };
 
-export default config;
+export default {
+  onBrokenLinks: 'warn'
+};
