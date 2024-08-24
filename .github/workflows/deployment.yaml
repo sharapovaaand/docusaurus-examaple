@@ -21,9 +21,6 @@ jobs:
         with:
           node-version: 18
           working-directory: ./
-      
-      - name: Check work directory
-        run: ls
 
       - name: Install dependencies
         run: npm install

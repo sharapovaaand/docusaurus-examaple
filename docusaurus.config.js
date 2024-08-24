@@ -133,5 +133,8 @@ const config = {
 };
 
 export default {
-  onBrokenLinks: 'warn'
+  onBrokenLinks: 'warn',
+  title: 'Example Site',
+  url: 'https://sharapovaaand.github.io', // Your website URL
+  baseUrl: '/docusaurus-example/',
 };
