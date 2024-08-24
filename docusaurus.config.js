@@ -16,7 +16,7 @@ const config = {
   url: 'https://sharapovaaand.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docusaurus-example/',
+  baseUrl: '/docusaurus-examaple/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -136,5 +136,5 @@ export default {
   onBrokenLinks: 'warn',
   title: 'Example Site',
   url: 'https://sharapovaaand.github.io', // Your website URL
-  baseUrl: '/docusaurus-example/',
+  baseUrl: '/docusaurus-examaple/',
 };
