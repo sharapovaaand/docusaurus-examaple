@@ -1,5 +1,4 @@
 ---
-slug: /intro
 id: intro
 title: Setting up a Node.js development environment with Docker Compose
 ---
